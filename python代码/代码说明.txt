@@ -1,0 +1,8 @@
+﻿说明：
+handlefin.py 二值化处理
+handlehm.py 汉明距离计算
+x_chr_shan.py or_chr_shan.py 数据归一化处理
+shannon_hp_x.py/shannnon_hp.py 信息熵计算
+dif_high.py 求出标准差计算的位点
+hhighest／hhighest_dif/hhighest_hp 求出高变异位点,汉明距离，标准差，信息熵
+gmap_fin.py 基因映射

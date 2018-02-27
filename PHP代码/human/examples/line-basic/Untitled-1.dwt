@@ -1,0 +1,45 @@
+
+<html>
+
+<head>
+<title></title>
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/slimtable.min.js"></script>
+<link rel="stylesheet" href="css/slimtable.css">
+<link rel="stylesheet" href="css/site.css">
+
+</head>
+
+<body>
+<br>
+
+
+<br>
+<table id="exampletableo0"><thead>
+<tr><th>tro_h3k4me1</th></tr>
+</thead><tr><td>9000</td><td>0</td></tr><tr><td>9200</td><td>0</td></tr><tr><td>9400</td><td>0</td></tr><tr><td>9600</td><td>0</td></tr><tr><td>9800</td><td>0</td></tr><tr><td>10000</td><td>2</td></tr><tr><td>10200</td><td>24</td></tr><tr><td>10400</td><td>7</td></tr><tr><td>10600</td><td>0</td></tr><tr><td>10800</td><td>3</td></tr><tr><td>11000</td><td>0</td></tr><tr><td>11200</td><td>0</td></tr><tr><td>11400</td><td>0</td></tr><tr><td>11600</td><td>0</td></tr><tr><td>11800</td><td>0</td></tr><tr><td>12000</td><td>0</td></tr><tr><td>12200</td><td>0</td></tr><tr><td>12400</td><td>0</td></tr><tr><td>12600</td><td>0</td></tr><tr><td>12800</td><td>0</td></tr></table><table id="exampletableo1"><thead>
+<tr><th>tro_h3k4me1</th></tr>
+</thead><tr><td>24600</td><td>0</td></tr><tr><td>24800</td><td>0</td></tr><tr><td>25000</td><td>0</td></tr><tr><td>25200</td><td>0</td></tr><tr><td>25400</td><td>0</td></tr><tr><td>25600</td><td>0</td></tr><tr><td>25800</td><td>0</td></tr><tr><td>26000</td><td>0</td></tr><tr><td>26200</td><td>0</td></tr><tr><td>26400</td><td>0</td></tr><tr><td>26600</td><td>0</td></tr><tr><td>26800</td><td>0</td></tr><tr><td>27000</td><td>0</td></tr><tr><td>27200</td><td>0</td></tr><tr><td>27400</td><td>0</td></tr><tr><td>27600</td><td>0</td></tr><tr><td>27800</td><td>0</td></tr><tr><td>28000</td><td>0</td></tr><tr><td>28200</td><td>0</td></tr><tr><td>28400</td><td>0</td></tr><tr><td>28600</td><td>0</td></tr><tr><td>28800</td><td>0</td></tr><tr><td>29000</td><td>0</td></tr><tr><td>29200</td><td>0</td></tr><tr><td>29400</td><td>0</td></tr><tr><td>29600</td><td>0</td></tr><tr><td>29800</td><td>0</td></tr><tr><td>30000</td><td>0</td></tr><tr><td>30200</td><td>0</td></tr><tr><td>30400</td><td>0</td></tr></table></br>
+
+
+
+Note. You can sort by multiple fields by shift clicking them.
+<script type="text/javascript">
+$(function() {
+	$("#exampletable").slimtable();
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$("#exampletable1").slimtable();
+});
+</script>
+<script type="text/javascript">$(function() {
+$("#exampletableo0").slimtable();});
+</script><script type="text/javascript">$(function() {
+$("#exampletableo1").slimtable();});
+</script><div style="text-align:center;clear:both">
+</div>
+</body>
+
+</html>

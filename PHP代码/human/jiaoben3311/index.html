@@ -1,0 +1,235 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>jQuery新闻列表滚动下一级代码 - 站长素材</title>
+
+<link rel="stylesheet" type="text/css" href="css/ideaboxNews.css">
+
+<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.min.css">
+
+<script src="js/jQuery.js"></script>
+
+<script src="js/jquery.mCustomScrollbar.min.js"></script>
+
+</head>
+
+<style>
+
+body{font-family:Ubuntu, Arial, Helvetica, sans-serif; font-size:16px; font-weight:400; padding:0; margin:0; }
+
+.container{
+	width:auto;
+	height:auto;
+	margin-right: 50px;
+}
+
+header{width:100%; min-height:100px; padding:20px; background:url(trash/bgnoise_lg.png); text-align:center; border-bottom:solid 2px #333; box-sizing:border-box;}
+
+header h1{font-weight:normal; font-size:36px; padding:0; margin:0;}
+
+header h3{padding:0; margin:0;}
+
+header .examples{width:100%; height:auto; padding:20px 0;}
+
+header .examples a{display:inline-block; padding:10px 20px; background:#333; text-decoration:none; color:#FFF;}
+
+header .examples a.active{background:#C00;}
+
+.example_img{width:100%; text-align:center; padding:20px; box-sizing:border-box; background:#333; margin-top:50px;}
+
+.example_img img{display:inline-block;}
+
+</style>
+
+<body>
+
+<div class="container">
+
+    <div class="ideaboxNews in-easing" id="idx1">
+
+    	<!--<h3>LAimg16 NEWS</h3>-->
+
+        <ul>
+
+        	<li>
+
+            	<div class="in-image">
+
+                	<img src="trash/img16.jpg">
+
+                    <span class="in-red"><h6>Read more</h6></span>
+
+                </div>
+
+                <div class="in-content">
+
+                	<h2>Can't submit the query</h2>
+
+                    <span>In single query page</span>
+
+                    <div>
+In single query page, you need to specify your interested  cell types and related histone modification types, and input region by chromosome location or geneID.  Then press the  “ search”  button , you can get the result.
+           
+
+                    </div>
+
+                </div>
+
+            </li>
+
+            <li>
+
+            	<div class="in-image">
+
+                	<img src="trash/img16.jpg">
+
+                    <span class="in-turquoise"><h6>Read more</h6></span>
+
+                </div>
+
+                <div class="in-content">
+
+                	<h2>Button failure of the "Batch Query"</h2>
+
+                    <span>In batch query page</span>
+
+                    <div>
+
+In batch query page, when you search the result of a number of regions, you need to input the regions or upload file with right format. Meanwhile, specify your interested  cell types and related histone modification 
+                    </div>
+
+                </div>
+
+            </li>
+
+          
+
+
+
+
+            <li>
+
+            	<div class="in-image">
+
+                	<img src="trash/img16.jpg">
+
+                    <span class="in-yellow"><h6>Read more</h6></span>
+
+                </div>
+
+                <div class="in-content">
+
+                	<h2>can't find the exporting data file</h2>
+
+                    <span>In batch query page</span>
+
+                    <div>
+
+Check the default address of your own browser.
+
+                    </div>
+
+                </div>
+
+            </li>
+
+           
+
+            <li>
+
+            	<div class="in-image">
+
+                	<img src="trash/img16.jpg">
+
+                    <span class="in-grey"><h6>Read more</h6></span>
+
+                </div>
+
+                <div class="in-content">
+
+                	<h2>Not clear about the format of input file</h2>
+
+                    <span>In batch query page</span>
+
+                    <div>
+There are two kinds of functions that need to upload files. One function is batch query and the other one is  peak dectection withW-chipeaks. </br><p></p>
+In batch query, the regions need to be list as below :</br>
+Chr number,start location,end location</br>
+Chr number,start location,end location</br>
+…….</br>
+Whereas, in peak detection case, the input file for W-chipeaks is formatted  as :</br>
+location,value</br>
+location,value</br>
+…….</br>
+
+                    
+</div>
+                </div>
+
+            </li>
+
+           
+           
+
+        </ul>
+
+        <div class="in-viewer">
+
+        	<div class="in-viewer-header">
+
+            	<img src="trash/img18.jpg">
+
+                <div>
+
+                	<h2>no title...</h2>
+
+                    <span>no date...</span>
+
+                </div>
+
+            </div>
+
+            <div class="in-viewer-content">
+
+            	no content...
+
+            </div>
+
+            <span class="in-viewer-close"></span>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+$(document).ready(function(e) {
+
+	$(".ideaboxNews").ideaboxNews({
+
+		maxwidth		:'100%',
+
+		newscount		:5,
+
+		position		:'relative',
+
+		openspeed		:'fast'
+
+	});
+
+});
+
+</script>
+
+
+</body>
+</html>
+
+

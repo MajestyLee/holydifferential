@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <link rel="shortcut icon" href="f.ico" type="image/x-icon" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Your description goes here" />
+  <meta name="keywords" content="your,keywords,goes,here" />
+  <meta name="author" content="Your Name" />
+  <link rel="stylesheet" type="text/css" href="andreas00.css" media="screen,projection" />
+  <title>iHMS</title>
+  <script type="text/javascript" src="jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="highcharts.js"></script>
+  <script type="text/javascript" src="highcharts/exporting.js"></script>
+  <script type="text/javascript" src="highcharts/highcharts-3d.js"></script>
+
+ 
+		<script type="text/javascript">
+﻿﻿$(function () {
+    $('#container').highcharts({
+        chart: {
+            type: 'pie',
+            options3d: {
+                enabled: true,
+                alpha: 45
+            }
+        },
+        title: {
+            text: 'Data Summary By Chromosome'
+        },
+        subtitle: {
+            text: 'Size in M(.rar)'
+        },
+        plotOptions: {
+            pie: {
+                innerSize: 100,
+                depth: 45
+            }
+        },
+        series: [{
+            name: 'Delivered amount',
+            data: [
+                ['chr1', 90],
+                ['chr2', 185],
+                 ['chr3',151 ],
+                   ['chr4', 137],
+                     ['chr5', 135],
+                       ['chr6', 129],
+                         ['chr7',120 ],
+                           ['chr8',111 ],
+                             ['chr9',90 ],
+                   ['chr10', 105],
+                     ['chr11',105 ],
+                       ['chr12',104 ],
+                         ['chr13', 70],
+                           ['chr14', 69],
+                             ['chr15', 65],
+                               ['chr16',65 ],
+                                 ['chr17', 67],
+                                   ['chr18', 58],
+                                     ['chr19', 49],
+                                       ['chr20', 51],
+                                         ['chr21', 27],
+                                           ['chr22',27 ],
+                                             ['chrx',92 ],
+                                               ['chry', 11]
+                
+            ]
+        }]
+    });
+});
+	
+				
+</script>
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+ <div id="wrap">
+	<div id="header">
+		<h1><a href="#" class="announce STYLE2"><img src="img/000.png" alt="" width="640" height="59" /></a></h1>
+</div>
+
+	<div id="leftside">
+		<h2 class="hide">Sample menu:</h2>
+			<ul class="avmenu">
+			<li><a  href="index.html" class="current">Home</a></li>
+			
+			
+			<li><a href="single.php">Single Query</a></li>
+			<li><a href="batch.php">Batch Query</a></li>
+	        <li><a href="../visu/index.html">Visualize</a></li>
+			<li><a href="download.php">Download</a></li>
+			
+			
+			<li><a href="tutorial.php">Tutorial</a></li>
+			<li><a href="help.html">Contact</a></li>
+		</ul>
+
+   </div>
+	<div id="contentwide">
+	     <p></p>
+		
+	   <p><a>iHMS</a> is a database integrating human histone modification data covering diverse developmental stages and primary tissues. It also incorporates genome-wide expression data of different conditions and reference genes, GC content and CpG island information. iHMS enables users to easily query the states of specific histone modifications in any interested genomic regions through intutive interface, to visualize  multiple genome-wide histone modification maps and related expression profiles at different developmental stages and tissues via an powerful browser, and to download data for follow-up analysis. 
+</p>
+
+	   <p><a href="#">Navigation</a></p>
+	   <iframe width="1200" height="120" src="jiaoben406/index.html"  style="border:none"></iframe>
+			<a href="#">iHMS Summary</a>
+		    <iframe width="1150" height="800"  src="tree/tree.html" scrolling="no" style="border:none"></iframe>
+		
+		<p>  
+		</p>
+
+
+   </div>
+ <div id="container" style="min-width:900px;height:600px"></div>
+ <div style="margin-left:160px">
+ <p><a href="#">Data Source</a></br>All sequencing reads can be accessed from the Sequence Read Archive (SRA) under accession number SRP000941. The raw datasets were produced by the NIH Roadmap Epigenomics Mapping Consortium.</p>
+<p><a href="#">Reference</a> </br> <a>1.</a>Xie, W., Schultz, M. D., Lister, R., et al. (2013). Epigenomic analysis of multilineage differentiation of human embryonic stem cells. Cell, 153(5), 1134-1148. 
+
+</br><a>2.</a>Bernstein, B. E., Stamatoyannopoulos J A., Costello J F., et al.( 2010) The NIH roadmap epigenomics mapping consortium. Nature biotechnology, 28(10): 10
+</p></div>
+			<div id="footer">
+		<p><img src="img/2.png" alt="" width="100" height="60" /><br />
+		Recommended Browser:Firefox or Chrome</p> 
+		<p>Maintained by© DMB Lab, Tongji University, China </p>
+</div>
+</div>
+</body>
+</html>

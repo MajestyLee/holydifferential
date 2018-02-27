@@ -1,0 +1,704 @@
+  {
+   "name": "Sample List",
+   "children": [  {
+   "name": "H1_Cell_Line",
+   "children": [  {
+   "name": " HM Number:26",
+   "children": [  {"name": "H1_Cell_Line"},  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:358"}]},
+  {
+   "name": "h2a.z",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h2bk15ac",
+   "children": [{"name": "Data size:415"}]},
+  {
+   "name": "h2bk5ac",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h2bk20ac",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h2bk120ac",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h3k4ac",
+   "children": [{"name": "Data size:378"}]},
+  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:409"}]},
+  {
+   "name": "h3k4me2",
+   "children": [{"name": "Data size:364"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:346"}]},
+  {
+   "name": "h3k9ac",
+   "children": [{"name": "Data size:327"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:399"}]},
+  {
+   "name": "h3k18ac",
+   "children": [{"name": "Data size:386"}]},
+  {
+   "name": "k3k23ac",
+   "children": [{"name": "Data size:415"}]},
+  {
+   "name": "h3k23me2",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:102"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:295"}]},
+  {
+   "name": "h2bk12ac",
+   "children": [{"name": "Data size:352"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:213"}]},
+  {
+   "name": "h3k56ac",
+   "children": [{"name": "Data size:413"}]},
+  {
+   "name": "h3k79me1",
+   "children": [{"name": "Data size:389"}]},
+  {
+   "name": "h3k79me2",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h4k5ac",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h4k8ac",
+   "children": [{"name": "Data size:153"}]},
+  {
+   "name": "h4k20me1",
+   "children": [{"name": "Data size:413"}]},
+  {
+   "name": "h4k91ac",
+   "children": [{"name": "Data size:410"}]}
+]}]},  {
+   "name": "H1_Derived_Mesendoderm_Cultured_Cells",
+   "children": [  {
+   "name": "HM Number:22",
+   "children": [  {"name": "H1_Derived_Mesendoderm_Cultured_Cells"},  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:332"}]},
+  {
+   "name": "h2a.z",
+   "children": [{"name": "Data size:374"}]},
+  {
+   "name": "h2bk120ac",
+   "children": [{"name": "Data size:339"}]},
+  {
+   "name": "h2bk12ac",
+   "children": [{"name": "Data size:358"}]},
+  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:294"}]},
+  {
+   "name": "h3k14ac",
+   "children": [{"name": "Data size:338"}]},
+  {
+   "name": "h3k18ac",
+   "children": [{"name": "Data size:269"}]},
+  {
+   "name": "h3k23ac",
+   "children": [{"name": "Data size:421"}]},
+  {
+   "name": "h3k4ac",
+   "children": [{"name": "Data size:310"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:375"}]},
+  {
+   "name": "h3k79me1",
+   "children": [{"name": "Data size:346"}]},
+  {
+   "name": "h3k79me2",
+   "children": [{"name": "Data size:422"}]},
+  {
+   "name": "h3k9ac",
+   "children": [{"name": "Data size:341"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:309"}]},
+  {
+   "name": "h4k12ac",
+   "children": [{"name": "Data size:321"}]},
+  {
+   "name": "h4k8ac",
+   "children": [{"name": "Data size:319"}]},
+  {
+   "name": "h4k91ac",
+   "children": [{"name": "Data size:307"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:378"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:413"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:388"}]},
+  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:388"}]},
+  {
+   "name": "h3k4me2",
+   "children": [{"name": "Data size:355"}]}
+]}]},  {
+   "name": "H1_Derived_Trophoblast_Cultured_Cells",
+   "children": [  {
+   "name": "HM Number:17",
+   "children": [  {"name": "H1_Derived_Trophoblast_Cultured_Cells"},  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h2bk5ac",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h2bk15ac",
+   "children": [{"name": "Data size:398"}]},
+  {
+   "name": "h2bk120ac",
+   "children": [{"name": "Data size:387"}]},
+  {
+   "name": "h3k4ac",
+   "children": [{"name": "Data size:364"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h3k9ac",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:391"}]},
+  {
+   "name": "h3k18ac",
+   "children": [{"name": "Data size:387"}]},
+  {
+   "name": "h3k23ac",
+   "children": [{"name": "Data size:408"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:354"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:359"}]},
+  {
+   "name": "h3k27me1",
+   "children": [{"name": "Data size:421"}]},
+  {
+   "name": "h4k8ac",
+   "children": [{"name": "Data size:421"}]},
+  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:391"}]},
+  {
+   "name": "h3k4me2",
+   "children": [{"name": "Data size:384"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:351"}]}
+]}]},  {
+   "name": "H1_Derived_Mesenchymal_Stem_Cells",
+   "children": [  {
+   "name": "HM Number:19",
+   "children": [  {"name": "H1_Derived_Mesenchymal_Stem_Cells"},  {
+   "name": "h2a.z",
+   "children": [{"name": "Data size:384"}]},
+  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:423"}]},
+  {
+   "name": "h2bk5ac",
+   "children": [{"name": "Data size:399"}]},
+  {
+   "name": "h2bk12ac",
+   "children": [{"name": "Data size:374"}]},
+  {
+   "name": "h2bk120ac",
+   "children": [{"name": "Data size:388"}]},
+  {
+   "name": "h3k4ac",
+   "children": [{"name": "Data size:395"}]},
+  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:296"}]},
+  {
+   "name": "h3k4me2",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:364"}]},
+  {
+   "name": "h3k9ac",
+   "children": [{"name": "Data size:378"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h3k14ac",
+   "children": [{"name": "Data size:414"}]},
+  {
+   "name": "h3k18ac",
+   "children": [{"name": "Data size:341"}]},
+  {
+   "name": "h2k23ac",
+   "children": [{"name": "Data size:377"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:429"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:328"}]},
+  {
+   "name": "h3k79me1",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h4k8ac",
+   "children": [{"name": "Data size:366"}]},
+  {
+   "name": "h4k91ac",
+   "children": [{"name": "Data size:384"}]}
+]}]},  {
+   "name": "H1_Derived_Neuronal_Progenitor_Cultured_Cells",
+   "children": [  {
+   "name": "HM Number:20",
+   "children": [  {"name": "H1_Derived_Neuronal_Progenitor_Cultured_Cells"},  {
+   "name": "h2ak5ac",
+   "children": [{"name": "Data size:422"}]},
+  {
+   "name": "h2bk5ac",
+   "children": [{"name": "Data size:397"}]},
+  {
+   "name": "h2bk12ac",
+   "children": [{"name": "Data size:410"}]},
+  {
+   "name": "h2bk15ac",
+   "children": [{"name": "Data size:389"}]},
+  {
+   "name": "h2bk120ac",
+   "children": [{"name": "Data size:392"}]},
+  {
+   "name": "h3k4ac",
+   "children": [{"name": "Data size:415"}]},
+  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:409"}]},
+  {
+   "name": "h3k4me2",
+   "children": [{"name": "Data size:292"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:431"}]},
+  {
+   "name": "h3k9ac",
+   "children": [{"name": "Data size:342"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:407"}]},
+  {
+   "name": "h3k14ac",
+   "children": [{"name": "Data size:398"}]},
+  {
+   "name": "h3k18ac",
+   "children": [{"name": "Data size:407"}]},
+  {
+   "name": "h3k23ac",
+   "children": [{"name": "Data size:375"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:405"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:398"}]},
+  {
+   "name": "h3k79me1",
+   "children": [{"name": "Data size:387"}]},
+  {
+   "name": "h4k8ac",
+   "children": [{"name": "Data size:374"}]},
+  {
+   "name": "h4k91ac",
+   "children": [{"name": "Data size:388"}]}
+]}]},  {
+   "name": "Adipose Tissue",
+   "children": [  {
+   "name": "HM Number:1",
+   "children": [  {"name": "body fat is loose connective tissue composed mostly of adipocytes"},  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:396"}]}
+]}]},  {
+   "name": "Adrenal Gland",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "endocrine glands that produce a wide variety of hormones"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:386"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:415"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:377"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:312"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:418"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:386"}]}
+]}]},  {
+   "name": "Adult Liver",
+   "children": [  {
+   "name": "HM Number:5",
+   "children": [  {"name": "hepatic transplantation is the replacement of a diseased liver "},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:407"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:414"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:426"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:398"}]}
+]}]},  {
+   "name": "Aorta",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Aorta is the main artery in the human body, originating from the left ventricle"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:390"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:392"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:363"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:389"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:408"}]}
+]}]},  {
+   "name": "Esophagus",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Esophagus or oesophagus , commonly known as the foodpipe or gullet"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:374"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:411"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:339"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:372"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:366"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:364"}]}
+]}]},  {
+   "name": "Gastric",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "dilated part of the digestive system which functions as an important organ"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:327"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:413"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:337"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:396"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:399"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:379"}]}
+]}]},  {
+   "name": "Left Ventricle",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "a ventricle is one of two large chambers that collect and expel blood "},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:334"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:376"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:307"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:255"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:395"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:399"}]}
+]}]},  {
+   "name": "Lung",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Lung is the essential respiration organ in many air-breathing animals"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:317"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:410"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:414"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:337"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:404"}]}
+]}]},  {
+   "name": "Ovary",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Ovary is an ovum-producing reproductive organ"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:410"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:411"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:418"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:376"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:418"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:413"}]}
+]}]},  {
+   "name": "Pancreas",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "a glandular organ in the digestive system and endocrine system of vertebrates"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:380"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:372"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:367"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:384"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:396"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:398"}]}
+]}]},  {
+   "name": "Psoas Muscle",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Psoas major is a long fusiform muscle"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:140"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:411"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:419"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:190"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:331"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:411"}]}
+]}]},  {
+   "name": "Right Atrium",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "The atrium is one of the two blood collection chambers of the heart"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:356"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:427"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:397"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:417"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:308"}]}
+]}]},  {
+   "name": "Right Venricle",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "a ventricle is one of two large chambers that collect and expel blood"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:400"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:337"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:425"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:297"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:416"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:366"}]}
+]}]},  {
+   "name": "Sigmoid Colon",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "the part of the large intestine that is closest to the rectum and anus"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:396"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:403"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:401"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:345"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:374"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:386"}]}
+]}]},  {
+   "name": "Spleen",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Spleen is an organ found in virtually all vertebrates"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:386"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:381"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:377"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:245"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:407"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:374"}]}
+]}]},  {
+   "name": "Thymus",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name": "Thymus is a specialized organ of the immune system"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:393"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:411"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:418"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:400"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:418"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:411"}]}
+]}]},  {
+   "name": "Small Intestine",
+   "children": [  {
+   "name": "HM Number:6",
+   "children": [  {"name":"the GI tract following the stomach and followed by the large intestine"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:399"}]},
+  {
+   "name": "h3k4me3",
+   "children": [{"name": "Data size:385"}]},
+  {
+   "name": "h3k9me3",
+   "children": [{"name": "Data size:381"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:386"}]},
+  {
+   "name": "h3k27me3",
+   "children": [{"name": "Data size:413"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:350"}]}
+]}]},  {
+   "name": "Bladder",
+   "children": [  {
+   "name": "HM Number:3",
+   "children": [  {"name":"the organ that collects urine excreted by the kidneys before disposal by urination"},  {
+   "name": "h3k4me1",
+   "children": [{"name": "Data size:394"}]},
+  {
+   "name": "h3k27ac",
+   "children": [{"name": "Data size:412"}]},
+  {
+   "name": "h3k36me3",
+   "children": [{"name": "Data size:407"}]}
+]}]}]}
